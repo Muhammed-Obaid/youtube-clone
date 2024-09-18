@@ -1,0 +1,12 @@
+.icon-btn{
+    transition: all;
+    transition-duration: .4s;
+    /* background: none; */
+}
+.icon-btn:hover{
+    background-color: rgb(255, 0, 0);
+    color: white;
+}
+.icon-btn:hover :nth-child(1){
+    color: white;
+}
